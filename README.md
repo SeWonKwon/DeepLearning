@@ -12,8 +12,9 @@
 
 # Basic Deep Learning
 
-1. B01_딥러닝 개요
-2. B02_
+1. [B01_딥러닝 개요](https://www.youtube.com/watch?v=0r_QueHF3Qg&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB)
+2. [B02_신경망 기초수학](https://www.youtube.com/watch?v=RZB6fwX_ixY&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=2)
+3. 
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
 * [딥러닝 기초 youtube 강좌](https://www.youtube.com/watch?v=0r_QueHF3Qg&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB)
 
