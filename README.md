@@ -3,6 +3,7 @@
 
 # Deep Learning Framework
 1. F01_텐서플로우 TensorFlow 기초
+2. F02_텐서플로우 회귀 분석 모델
 
 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
