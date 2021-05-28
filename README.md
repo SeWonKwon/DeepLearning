@@ -2,8 +2,9 @@
 
 
 # Deep Learning Framework
-1. F01_텐서플로우 TensorFlow 기초
-2. F02_텐서플로우 회귀 분석 모델
+1. [F01_텐서플로우 TensorFlow 기초](https://www.youtube.com/watch?v=B961QM47g64&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj&index=1)
+2. [F02_텐서플로우 회귀 분석 모델](https://www.youtube.com/watch?v=ZmlqsOidnWw&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj&index=2)
+3. [F03_케라스 Keras 기초](https://www.youtube.com/watch?v=mzOpojTpliA&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj&index=3)
 
 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
