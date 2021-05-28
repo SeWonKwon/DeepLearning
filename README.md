@@ -8,6 +8,11 @@
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
 * [딥러닝 프레임워크 youtube 강좌](https://www.youtube.com/watch?v=B961QM47g64&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj)
 
+# Basic Deep Learning
+
+* [이수안컴퓨터연구소](http://suanlab.com/suan.html)
+* [딥러닝 기초 youtube 강좌](https://www.youtube.com/watch?v=0r_QueHF3Qg&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB)
+
 # Deep Learning From scratch
 
 책에 관련된 내용을 정리 중에 있습니다. 
