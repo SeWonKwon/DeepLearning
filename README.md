@@ -2,7 +2,7 @@
 
 
 # Deep Learning Framework
-
+1. F01_텐서플로우 TensorFlow 기초
 
 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
@@ -10,6 +10,8 @@
 
 # Basic Deep Learning
 
+1. B01_딥러닝 개요
+2. B02_
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
 * [딥러닝 기초 youtube 강좌](https://www.youtube.com/watch?v=0r_QueHF3Qg&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB)
 
