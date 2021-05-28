@@ -5,8 +5,9 @@
 1. [F01_텐서플로우 TensorFlow 기초](https://www.youtube.com/watch?v=B961QM47g64&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj&index=1)
 2. [F02_텐서플로우 회귀 분석 모델](https://www.youtube.com/watch?v=ZmlqsOidnWw&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj&index=2)
 3. [F03_케라스 Keras 기초](https://www.youtube.com/watch?v=mzOpojTpliA&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj&index=3)
+4. 
 
-출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
+### 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
 * [딥러닝 프레임워크 youtube 강좌](https://www.youtube.com/watch?v=B961QM47g64&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj)
 
@@ -15,6 +16,8 @@
 1. [B01_딥러닝 개요](https://www.youtube.com/watch?v=0r_QueHF3Qg&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB)
 2. [B02_신경망 기초수학](https://www.youtube.com/watch?v=RZB6fwX_ixY&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=2)
 3. 
+
+### 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
 * [딥러닝 기초 youtube 강좌](https://www.youtube.com/watch?v=0r_QueHF3Qg&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB)
 
