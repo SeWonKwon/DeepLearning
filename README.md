@@ -15,7 +15,7 @@
 
 1. [B01_딥러닝 개요](https://www.youtube.com/watch?v=0r_QueHF3Qg&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB)
 2. [B02_신경망 기초수학](https://www.youtube.com/watch?v=RZB6fwX_ixY&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=2)
-3. 
+3. [B03_신경망_데이터_표현](https://www.youtube.com/watch?v=RZB6fwX_ixY&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=3)
 
 ### 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
