@@ -18,6 +18,7 @@
 3. [B03_신경망_데이터_표현](https://www.youtube.com/watch?v=RZB6fwX_ixY&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=3),
    [B03_1_Numpy](https://www.youtube.com/watch?v=0uNh9qrFUJE&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp&index=3)
 5. [B04_신경망 구조](https://www.youtube.com/watch?v=kHXrjyqyfE4&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=4)
+6. [B05_모델 학습과 손실 함수](https://www.youtube.com/watch?v=9flte5nLbw8&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=5)
 
 ### 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
