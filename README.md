@@ -19,6 +19,7 @@
    [B03_1_Numpy](https://www.youtube.com/watch?v=0uNh9qrFUJE&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp&index=3)
 5. [B04_신경망 구조](https://www.youtube.com/watch?v=kHXrjyqyfE4&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=4)
 6. [B05_모델 학습과 손실 함수](https://www.youtube.com/watch?v=9flte5nLbw8&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=5)
+7. [B06_경사하강법(Gradient Decent)](https://colab.research.google.com/drive/1yoVd7c7q318fZ6C8T_W695YmSRIEgaEB)
 
 ### 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
