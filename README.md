@@ -21,6 +21,11 @@
 6. [B05_모델 학습과 손실 함수](https://www.youtube.com/watch?v=9flte5nLbw8&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=5)
 7. [B06_경사하강법(Gradient Decent)](https://www.youtube.com/watch?v=yocALgANi28&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=6)
 8. [B07_신경망 학습](https://www.youtube.com/watch?v=yocALgANi28&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=7)
+9. [B08_오차역전파 Backpropagation](https://www.youtube.com/watch?v=3OLh7bb_53k&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=8)
+10. [B09_딥러닝 학습 기술](https://www.youtube.com/watch?v=3OLh7bb_53k&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=9)
+11. [B10_CNN 컨볼루션 신경망](https://www.youtube.com/watch?v=3OLh7bb_53k&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=10)
+12. [B11_RNN 순환신경망](https://www.youtube.com/watch?v=3OLh7bb_53k&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=11)
+13. [B12_RNN 순환신경망_실습](https://www.youtube.com/watch?v=3OLh7bb_53k&list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB&index=12)
 
 ### 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
