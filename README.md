@@ -5,7 +5,17 @@
 1. [F01_텐서플로우 TensorFlow 기초](https://www.youtube.com/watch?v=B961QM47g64&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj&index=1)
 2. [F02_텐서플로우 회귀 분석 모델](https://www.youtube.com/watch?v=ZmlqsOidnWw&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj&index=2)
 3. [F03_케라스 Keras 기초](https://www.youtube.com/watch?v=mzOpojTpliA&list=PL7ZVZgsnLwEHGS6EId3B_AnRYSCi_35rj&index=3)
-4. 
+4. [F04_케라스 보스턴 주택 가격 모델]
+5. [F05_케라스 자동차 연비 예측 모델]
+6. [F06_Fashion MNIST 모델]
+7. [F07_ 케라스 다양한 학습 기술]
+8. [F08_텐서플로우 Data API]
+9. [F09_케라스 컨볼루션 신경망]
+10. [F10_Fashion MNIST CNN 모델]
+11. [F11_케라스 CIFAR10 CNN 모델]
+12. [F12_케라스 전이 학습 Transfer Learning]
+13. [F13_케라스 텍스트 처리 및 임베딩]
+14. [F14_케라스]
 
 ### 출처: 좋은 강좌 공유 해주신 이수안님께 특별히 감사드립니다.
 * [이수안컴퓨터연구소](http://suanlab.com/suan.html)
